@@ -2,7 +2,7 @@
 <h3 align="center">I am currently a 1st Year Computer Science student from University of the Philippines Diliman!</h3>
 
 
-- 🔭 I want to learn more about **3D Modelling on Blender**
+- 🔭 I want to learn more about **3D Modelling on Blender, HTML**
 
 - 🌱 I’m currently learning **Python**
 
