@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Kolleen!</h1>
 <h3 align="center">I am currently a 1st Year Computer Science student from University of the Philippines Diliman!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kolleengeri&label=Profile%20views&color=0e75b6&style=flat" alt="kolleengeri" /> </p>
 
 - 🔭 I want to learn more about **3D Modelling on Blender**
 
