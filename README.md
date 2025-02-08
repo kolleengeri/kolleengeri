@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **kolleengeri.aguilar11@gmail.com**
+- 📫 Reach me via **kolleengeri.aguilar11@gmail.com**
 
 - ⚡ Fun fact **I make digital art! Check me out on IG: @majingloe**
 
