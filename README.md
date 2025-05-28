@@ -4,7 +4,7 @@
 
 - 🔭 I want to learn more about **3D Modelling on Blender, HTML**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, HTML, CSS, TypeScript, C**
 
 - 📫 Reach me via **kolleengeri.aguilar11@gmail.com**
 
