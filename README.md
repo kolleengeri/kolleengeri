@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, HTML, CSS, TypeScript, C**
 
-- 📫 Reach me via **kolleengeri.aguilar11@gmail.com**
+- 📫 Reach me via **ktaguilar2@up.edu.ph**
 
 - ⚡ I make digital art! **Check me out on IG: @majingloe**
 
